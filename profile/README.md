@@ -1,7 +1,6 @@
 <div align="center">
 
-# Majeed4Solutions · M4 Solutions
-
+# Majeed4Solutions
 **Software solutions company specializing in enterprise .NET applications**
 **شركة حلول برمجية متخصصة في تطبيقات .NET للمؤسسات**
 
